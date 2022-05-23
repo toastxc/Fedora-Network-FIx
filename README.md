@@ -11,3 +11,7 @@ cd Fedora-Network-Fix
 cargo build
 
 sudo ./target/debug/Fedora-Network-Fix
+
+Y
+
+_once completed restart Fedora_
