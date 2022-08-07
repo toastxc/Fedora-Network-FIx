@@ -8,10 +8,10 @@ git clone https://github.com/toastxc/Fedora-Network-Fix.git
 
 cd Fedora-Network-Fix
 
-cargo build
-
-sudo ./target/debug/Fedora-Network-Fix
 
 
+sudo sh main.sh
+
+Y
 
 _once completed restart Fedora_
