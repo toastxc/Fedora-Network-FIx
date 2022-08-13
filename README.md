@@ -7,7 +7,5 @@ A small script that fixes the Fedora Workstation network interface bug for enter
 git clone https://github.com/toastxc/Fedora-Network-Fix.git
 cd Fedora-Network-Fix
 sudo sh main.sh
-Y
-
 ```
 _once completed restart Fedora_
