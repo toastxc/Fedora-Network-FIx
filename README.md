@@ -1,6 +1,8 @@
 # Fedora-Network-Fix
 A small script that fixes the Fedora Workstation network interface bug for enterprise WiFI.
 
+**Dependancies**
+
 
 **install and run**
 ```
