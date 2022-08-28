@@ -1,14 +1,14 @@
 # Fedora-Network-Fix
-A small script that fixes the Fedora Workstation network interface bug for enterprise WiFI.
+A small script that fixes the Fedora Workstation network interface bug for enterprise WiFI. 
 
-**Dependancies**
+**Dependencies** 
 
-All are preinstalled with Fedora Workstation
-
-**install and run**
+All are preinstalled with Fedora Workstation 
+  
+**Install and run** 
+``` 
+git clone https://github.com/toastxc/Fedora-Network-Fix.git 
+cd Fedora-Network-Fix 
+sudo sh main.sh 
 ```
-git clone https://github.com/toastxc/Fedora-Network-Fix.git
-cd Fedora-Network-Fix
-sudo sh main.sh
-```
-_once completed restart Fedora_
+_Once completed restart Fedora_ 
